@@ -12,8 +12,8 @@ console.log(path.resolve(path.dirname(filepath), path.basename(filepath)));
 console.log(__dirname);
 console.log(__filename);
 
-// this is a text
-
+// // this is a text
+// this is a second text
 // const http = require('http');
 // const fs = require('fs');
 
